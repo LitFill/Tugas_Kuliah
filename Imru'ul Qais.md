@@ -76,8 +76,8 @@ Diceritakan bahwa Imru'ul Qais melihat kuburan seorang perempuan asing yang mati
 disana dan dikuburkan di kaki bukit bernama _'Asib_, maka dia pun bertanya mengenai
 kisah perempuan itu, setelah dia diberitahu maka dia berkata:
 
-| Wahai tetanggaku, sungguh musibah itu silih berganti  | Dan aku menetap disini selagi gunung 'Asib masih tinggal juga |
-| ----------------------------------------------------- | ------------------------------------------------------------- |
+|  Wahai tetanggaku, sungguh musibah itu silih berganti | Dan aku menetap disini selagi gunung 'Asib masih tinggal juga |
+| ----------------------------------------------------: | :------------------------------------------------------------ |
 | **Wahai tetanggaku, kita berdaua orang asing disini** | **dan sesama orang asing saling menisbatkan diri**            |
 
 ## Kedudukannya diantara Para Penyair
