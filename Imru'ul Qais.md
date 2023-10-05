@@ -58,7 +58,7 @@ Hari ini (fokus) untuk arak, besok (fokus) untuk urusan (balas dendam).</blockqu
 kemudian dia beristirahat untuk bersiap menuju kaum Bani Asad. Hal ini didengar
 oleh mereka, maka mereka mengutus kepadanya beberapa petinggi mereka. Imru'ul Qais 
 menghormati kedudukan mereka, maka dia pergi menghilang dari mereka selama tiga hari,
-kemudian kembali menghadapi mereka dengan berpakaian mantel, _khuf_, dan sorban hitam
+kemudian kembali menghadapi mereka dengan berpakaian mantel, <i>khuf</i>, dan sorban hitam
 yang menunjukan niatnya untuk membalaskan dendam ayahnya.</p>
 
 Imru' al-Qais terus mengejar Bani Asad hingga ia merasa _al-Mundhir_ mengejarnya,
